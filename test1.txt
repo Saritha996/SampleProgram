@@ -1,0 +1,10 @@
+ Volume in drive C is Win7
+ Volume Serial Number is B897-77F5
+
+ Directory of C:\Users\Pervacio\Desktop\MyProject
+
+11/16/2019  09:14 PM    <DIR>          .
+11/16/2019  09:14 PM    <DIR>          ..
+11/16/2019  09:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  46,615,916,544 bytes free
